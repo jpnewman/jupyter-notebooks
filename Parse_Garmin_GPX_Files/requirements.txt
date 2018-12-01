@@ -1,0 +1,16 @@
+pandas
+scipy
+mplleaflet
+matplotlib
+
+gpxpy
+vincenty
+
+seawater
+
+folium
+gmplot
+
+git+git://github.com/jpnewman/python-oceans.git
+
+netCDF4

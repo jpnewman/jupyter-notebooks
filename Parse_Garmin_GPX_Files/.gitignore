@@ -1,0 +1,6 @@
+
+*.html
+
+notebooks/_DATA/
+notebooks/_OUTPUT/
+notebooks/_#OLD/
