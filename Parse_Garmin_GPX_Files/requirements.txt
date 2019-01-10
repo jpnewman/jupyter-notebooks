@@ -2,6 +2,7 @@ pandas
 scipy
 mplleaflet
 matplotlib
+mpld3
 
 gpxpy
 vincenty
@@ -14,3 +15,6 @@ gmplot
 git+git://github.com/jpnewman/python-oceans.git
 
 netCDF4
+
+# https://stackoverflow.com/questions/48090119/jupyter-notebook-typeerror-init-got-an-unexpected-keyword-argument-io-l
+tornado==4.5.3
